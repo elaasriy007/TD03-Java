@@ -3,7 +3,6 @@ import java.util.Calendar;
 
 public class Personne {
 
-```
 private char genre;
 private String prenom;
 private String nom;
