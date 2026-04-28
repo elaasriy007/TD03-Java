@@ -1,6 +1,6 @@
 public class Main {
 
-```
+
 public static void main(String[] args) {
 
     System.out.println("=== Tests PorteMonnaie ===\n");
@@ -64,6 +64,6 @@ public static void main(String[] args) {
     Personne gen = new Personne('X', "Test", "Genre", "01/01/2000", 10);
     System.out.println("Genre : " + gen.getGenre());
 }
-```
+
 
 }
