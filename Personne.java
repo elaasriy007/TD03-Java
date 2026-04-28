@@ -101,6 +101,6 @@ public boolean recoitDe(Personne p, int argent) {
     if (p == null || argent <= 0) return false;
     return p.donneA(this, argent);
 }
-```
+
 
 }
