@@ -1,6 +1,6 @@
 public class PorteMonnaie {
 
-```
+
 private int somme;
 
 public PorteMonnaie() {
@@ -56,6 +56,6 @@ public boolean retirer(int argent) {
     this.somme -= argent;
     return true;
 }
-```
+
 
 }
